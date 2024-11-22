@@ -187,6 +187,14 @@ TODO
   * The wiggly lines don't always touch.
 
 * Dozens of other issues on [https://github.com/bramp/js-sequence-diagrams/issues](https://github.com/bramp/js-sequence-diagrams/issues)
+* 
+
+
+Quick Proof of Concept
+------------
+Get the code from the Git Branch named "gh-pages" - This is a full working example. 
+
+
 
 Contributors
 ------------
